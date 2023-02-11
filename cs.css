@@ -2,13 +2,13 @@ body,td{
     background-color: grey;
     color: black;
     font-family: 'Open Sans', sans-serif;
-}
+}   
 .dark-mode{
     background-color: black;
     color: white;
     
 }
-
+  
 .contact{
     overflow: hidden;
     color: white;
